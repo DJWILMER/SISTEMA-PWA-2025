@@ -5,7 +5,7 @@ define ('CONFIG', 'config/');
 define ('CONTROL', 'controladores/');
 define ('CORE', 'core');
 define ('MODELO', 'modelos/');
-define ('VISTA', 'vistas/');
+define ('VISTA', 'vistas/590');
 define ('SP', DIRECTORY_SEPARATOR);
 define ('DIR_IMG', 'img');
 date_default_timezone_set("America/Montevideo");
