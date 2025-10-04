@@ -7,11 +7,11 @@
 #    /  /_\  \   |  |  |  ||  |  |  | |  |  |  | |    <   |  |   /  /_\  \  
 #   /  _____  \  |  '--'  ||  `--'  | |  `--'  | |  .  \  |  |  /  _____  \ 
 #  /__/     \__\ |_______/  \______/   \______/  |__|\__\ |__| /__/     \__\
-#  Desarrollo de webapp y diseño web || www.adookia.com || hola@adookia.com
+#  Desarrollo de webapp y diseño web || https://wilmerdelgadocieza.blogspot.com/ || wilmerdelgadocieza@gmail.com
 #
 # c[] by @unNickSimple
 #
-# Luis Suárez
+# DJ WILMER
 # Programdor
 #
 # Me lo contaron y lo olvidé
