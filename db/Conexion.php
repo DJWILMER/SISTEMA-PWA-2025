@@ -8,7 +8,7 @@ class Conexion{
     // Poner en forma externa la conexion de base de datos.
     $driver = "mysql";
     $servername = "localhost";
-    $username = "nombreDUsuario";
+    $username = "nombreDUsuarioWilmer";
     $password = "clave";
     $charset= "SET NAMES utf8";
     $dbname = "nombreBaseDDatos";
